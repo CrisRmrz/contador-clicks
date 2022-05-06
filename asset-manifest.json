@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/contador-clicks.git/static/css/main.4cf69956.css",
-    "main.js": "/contador-clicks.git/static/js/main.e5505ab6.js",
-    "static/media/logo.PNG": "/contador-clicks.git/static/media/logo.04a2c006d2bbfcd70f5a.PNG",
-    "static/media/websymbols-regular-webfont.svg": "/contador-clicks.git/static/media/websymbols-regular-webfont.f214d64d1128030a23b0.svg",
-    "static/media/websymbols-regular-webfont.ttf": "/contador-clicks.git/static/media/websymbols-regular-webfont.499dc72dd2cb7f154b78.ttf",
-    "static/media/websymbols-regular-webfont.woff": "/contador-clicks.git/static/media/websymbols-regular-webfont.353f403afa6575da6d2b.woff",
-    "static/media/websymbols-regular-webfont.eot": "/contador-clicks.git/static/media/websymbols-regular-webfont.c7d540acaac59939f36b.eot",
-    "index.html": "/contador-clicks.git/index.html",
-    "main.4cf69956.css.map": "/contador-clicks.git/static/css/main.4cf69956.css.map",
-    "main.e5505ab6.js.map": "/contador-clicks.git/static/js/main.e5505ab6.js.map"
+    "main.css": "/contador-clicks/static/css/main.8276e01b.css",
+    "main.js": "/contador-clicks/static/js/main.ae09b3a8.js",
+    "static/media/logo.PNG": "/contador-clicks/static/media/logo.04a2c006d2bbfcd70f5a.PNG",
+    "static/media/websymbols-regular-webfont.svg": "/contador-clicks/static/media/websymbols-regular-webfont.f214d64d1128030a23b0.svg",
+    "static/media/websymbols-regular-webfont.ttf": "/contador-clicks/static/media/websymbols-regular-webfont.499dc72dd2cb7f154b78.ttf",
+    "static/media/websymbols-regular-webfont.woff": "/contador-clicks/static/media/websymbols-regular-webfont.353f403afa6575da6d2b.woff",
+    "static/media/websymbols-regular-webfont.eot": "/contador-clicks/static/media/websymbols-regular-webfont.c7d540acaac59939f36b.eot",
+    "index.html": "/contador-clicks/index.html",
+    "main.8276e01b.css.map": "/contador-clicks/static/css/main.8276e01b.css.map",
+    "main.ae09b3a8.js.map": "/contador-clicks/static/js/main.ae09b3a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cf69956.css",
-    "static/js/main.e5505ab6.js"
+    "static/css/main.8276e01b.css",
+    "static/js/main.ae09b3a8.js"
   ]
 }
